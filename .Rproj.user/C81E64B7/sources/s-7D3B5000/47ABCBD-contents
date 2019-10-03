@@ -3,4 +3,6 @@ class(a)
 b="hyundai"
 class(b)
 c=10+2i
-class=(c)
+class(c)
+d=12+9i
+class(d)
