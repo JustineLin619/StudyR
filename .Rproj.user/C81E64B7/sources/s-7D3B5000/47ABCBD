@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570105782868.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "47ABCBD",
+    "lastKnownWriteTime" : 1570106326,
+    "last_content_update" : 1570106326834,
+    "path" : "~/StudyR/ex0000.R",
+    "project_path" : "ex0000.R",
+    "properties" : {
+        "cursorPosition" : "5,9",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
