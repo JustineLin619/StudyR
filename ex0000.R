@@ -16,3 +16,5 @@ class(g)
 .Machine$double.xmin
 .Machine$integer.max
 .Machine$integer.max
+.Machine$double.xmax
+sss
