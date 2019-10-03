@@ -6,3 +6,13 @@ c=10+2i
 class(c)
 d=12+9i
 class(d)
+e=5
+class(e)
+f=5.0
+class(f)
+g=5L
+class(g)
+.Machine$double.xmax
+.Machine$double.xmin
+.Machine$integer.max
+.Machine$integer.max
